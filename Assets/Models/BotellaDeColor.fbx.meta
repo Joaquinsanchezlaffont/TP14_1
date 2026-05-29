@@ -1,11 +1,12 @@
 fileFormatVersion: 2
-guid: c0e2b1cc79588134b8e35fe7250548d0
+guid: 87932a28977f49941b9e938407d0cb6a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: celeste claro
+    2100002: celeste
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cylinder.001
