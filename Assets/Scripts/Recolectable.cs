@@ -11,8 +11,7 @@ public class Recolectable : MonoBehaviour
         if (otro.gameObject.CompareTag("Player"))
         {
             puntos = puntos + 1;
-
-            Debug.Log("Objeto recolectado. Puntos: " + puntos);
+Debug.Log("Recolectaste una botella. Total: " + puntos);
 
             Destroy(gameObject);
         }
