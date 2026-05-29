@@ -2292,6 +2292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BotellaDeColor
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 87932a28977f49941b9e938407d0cb6a, type: 3}
+      propertyPath: m_TagString
+      value: Collecionable
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 87932a28977f49941b9e938407d0cb6a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -49.1534
