@@ -1,34 +1,16 @@
 fileFormatVersion: 2
-guid: c9e5b08f5aa16d64da47d6f5c39a3ca1
+guid: c4e8bfc4f9180124e951befc35b1301d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Cube
-    100004: Piso
-    100006: Techo
     400000: //RootNode
-    400002: Cube
-    400004: Piso
-    400006: Techo
-    2100000: Comedor_Paredes_Ladrillo
-    2100002: Comedor_Paredes_Blanca
-    2100004: Comedor_Techo
-    2100006: Manija _De_Madera
-    2100008: Comedor_Marco_De_Ventanas
-    2100010: Comedor_Ventanas
-    2100012: Comedor_Columnas_Verdes
-    2100014: Comedor_Columnas_Azules
-    2100016: Comedor_Piso
-    2300000: Cube
-    2300002: Piso
-    2300004: Techo
-    3300000: Cube
-    3300002: Piso
-    3300004: Techo
-    4300000: Cube
-    4300002: Piso
-    4300004: Techo
+    2100000: celeste claro
+    2100002: celeste
+    2100004: Etiqueta
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cylinder.001
   externalObjects: {}
   materials:
     importMaterials: 1

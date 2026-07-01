@@ -5,7 +5,7 @@ using UnityEngine;
 public class InteractiveArea : MonoBehaviour
 {
     int score = 0;
-    public int scoreMaximo = 5;
+    public int scoreMaximo = 32;
 
     UIManager uiManager;
     GameManager gameManager;
