@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44443e489560b3d4c8b2a215e5a96f70
+guid: b424ba31f7eb35f4f8fb10655bd385aa
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -15,11 +15,12 @@ ModelImporter:
     2100002: Comedor_Paredes_Blanca
     2100004: Comedor_Techo
     2100006: Manija _De_Madera
-    2100008: Comedor_Marco_De_Ventanas
-    2100010: Comedor_Ventanas
-    2100012: Comedor_Columnas_Verdes
-    2100014: Comedor_Columnas_Azules
-    2100016: Comedor_Piso
+    2100008: Comedor_Paredes_Blancas2
+    2100010: Comedor_Marco_De_Ventanas
+    2100012: Comedor_Ventanas
+    2100014: Comedor_Columnas_Verdes
+    2100016: Comedor_Columnas_Azules
+    2100018: Comedor_Piso
     2300000: Cube
     2300002: Piso
     2300004: Techo
