@@ -31,7 +31,62 @@ ModelImporter:
     4300000: Cube
     4300002: Piso
     4300004: Techo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Columnas_Azules
+    second: {fileID: 2100000, guid: e76ab67256d7e8549974eaec3346ab8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Columnas_Verdes
+    second: {fileID: 2100000, guid: 82f13e4bed4f52648903897f78ebb91d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Marco_De_Ventanas
+    second: {fileID: 2100000, guid: 6f13b9b6929a60a41a080ccf399e18ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Paredes_Blanca
+    second: {fileID: 2100000, guid: b8584893199e3ae4c93df9edf7e79058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Paredes_Blancas2
+    second: {fileID: 2100000, guid: d90f1d742b77d794bb320b934b7349c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Paredes_Ladrillo
+    second: {fileID: 2100000, guid: 52e54956af875c344b3c88b25b8db248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Piso
+    second: {fileID: 2100000, guid: a8cb35711f0e41d42a1ab9791651f901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Techo
+    second: {fileID: 2100000, guid: 7a9bf07ce26d6634780601b0bacf317c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Comedor_Ventanas
+    second: {fileID: 2100000, guid: 2f0c91bbdb5a06e41b7abc28950c2598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Manija _De_Madera
+    second: {fileID: 2100000, guid: 1cc8e8b70b3436f4baf2e9679ede8ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mostrador
+    second: {fileID: 2100000, guid: ed541be894aed5a459d0847ca47603c3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -71,7 +126,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
